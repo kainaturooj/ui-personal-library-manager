@@ -6,30 +6,35 @@ This is a simple Streamlit web application that allows you to manage your person
 # 🚀 Features
 
 
-**Add Books**: Input book details such as title, author, year, genre, and reading status.
-**Remove Books**: Delete books from the library by title.
-**Search Books**: Find books by title or author.
-**View All Books**: Display a list of all added books with their details.
-**Statistics**: Get insights into your reading progress with percentages of books read.
+- **Add Books**: Input book details such as title, author, year, genre, and reading status.
+- **Remove Books**: Delete books from the library by title.
+- **Search Books**: Find books by title or author.
+- **View All Books**: Display a list of all added books with their details.
+- **Statistics**: Get insights into your reading progress with percentages of books read.
+
+
 # 🛠️ Technologies Used
-**Python**
-**Streamlit**
-**JSON for data storage**
+
+- **Python**
+- **Streamlit**
+- **JSON for data storage**
+
 # 🔗 Demo
 👉 View the Live Demo (https://personal-library-manager-web-app.streamlit.app/)
 
 # 💻 Installation & Usage
   **Clone the repository:**
-  git clone https://github.com/kainaturooj/ui-personal-library-manager.git
-  cd your-repo-name
+  - git clone https://github.com/kainaturooj/ui-personal-library-manager.git
+  - cd your-repo-name
 
  **Install the required packages:**
- pip install streamlit
- Run the application:
- streamlit run app.py
- Open the app in your browser at http://localhost:8501.
+ - pip install streamlit
+ - Run the application:
+ - streamlit run app.py
+ - Open the app in your browser at http://localhost:8501.
 
-# 📄 Data Storage
+# 📄 Data Storage:
 The library data is stored in a local library.txt file using JSON format.
-# 📬 Contributions
+
+# 📬 Contributions:
 Feel free to fork the project and submit pull requests for improvements or new features!
